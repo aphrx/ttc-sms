@@ -1,4 +1,3 @@
-import src.schemas as schemas
 import uvicorn
 from fastapi import FastAPI, Depends, HTTPException, Request, Response, APIRouter, FastAPI, Form
 
